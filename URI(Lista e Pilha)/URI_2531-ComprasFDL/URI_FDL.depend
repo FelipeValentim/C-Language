@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620413295 source:c:\users\valentim\documents\projetos\uri_fdl\main.c
+	<stdio.h>
+	<stdlib.h>
+

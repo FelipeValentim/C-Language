@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620440124 source:c:\users\valentim\documents\projetos\uri_trilha\main.c
+	<stdio.h>
+	<stdlib.h>
+

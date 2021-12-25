@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1620500921 source:c:\users\valentim\documents\projetos\uri_menordapilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+
