@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1617750841 source:c:\users\valentim\documents\projetos\t1bq3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"icone.c"
+
+1617751285 c:\users\valentim\documents\projetos\t1bq3\icone.c
+	<stdio.h>
+	<stdlib.h>
+	"icone.h"
+
+1617751000 c:\users\valentim\documents\projetos\t1bq3\icone.h
+
