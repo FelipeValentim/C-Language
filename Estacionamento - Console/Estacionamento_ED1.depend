@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1621051628 source:c:\users\valentim\documents\projetos\estacionamento_ed1\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<locale.h>
-
